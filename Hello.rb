@@ -8,4 +8,10 @@ print(first_name);
 last_name = "\n\nKent\n\n\n";
 print(last_name);
 
+def hello()
+    puts("Testing a prototype!");
+end
+
+hello();
+
 
