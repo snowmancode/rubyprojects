@@ -20,4 +20,7 @@ def leave()
     puts("\nLeaving now\n");
 end
 
+hello();
+leave();
+
 
