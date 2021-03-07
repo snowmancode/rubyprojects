@@ -14,4 +14,10 @@ end
 
 hello();
 
+hello();
+
+def leave()
+    puts("\nLeaving now\n");
+end
+
 
