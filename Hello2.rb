@@ -15,3 +15,4 @@ print("Late night studies\n");
 print("Ruby is a hot language")
 
 grinding();
+print("\nPython is a hot language as well")
