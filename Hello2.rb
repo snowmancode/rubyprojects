@@ -11,4 +11,7 @@ end
 check_coding();
 grinding();
 
-print("Late night studies");
+print("Late night studies\n");
+print("Ruby is a hot language")
+
+grinding();
