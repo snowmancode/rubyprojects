@@ -10,3 +10,5 @@ end
 
 check_coding();
 grinding();
+
+print("Late night studies");
