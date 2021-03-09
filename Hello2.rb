@@ -43,3 +43,9 @@ end
 check_test();
 check_test();
 
+def all_systems_go()
+    puts("\nThe Ruby Language will be used to support Devops Projects.\n\n\n");
+end
+
+all_systems_go();
+
