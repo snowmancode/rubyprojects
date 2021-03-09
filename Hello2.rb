@@ -36,3 +36,10 @@ end
 
 feel_it();
 
+def check_test()
+    puts("\nAll Good.");
+end
+
+check_test();
+check_test();
+
