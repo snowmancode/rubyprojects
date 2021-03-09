@@ -22,4 +22,6 @@ def hard_work()
 end
 
 hard_work();
+grinding();
+
 
