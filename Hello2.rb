@@ -30,3 +30,9 @@ end
 
 keep_fighting();
 
+def feel_it()
+    puts("\nCan you feel it.  Can you feel it");
+end
+
+feel_it();
+
