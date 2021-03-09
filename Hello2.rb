@@ -24,4 +24,9 @@ end
 hard_work();
 grinding();
 
+def keep_fighting()
+    puts("\nThe Grind is real.");
+end
+
+keep_fighting();
 
