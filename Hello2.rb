@@ -16,3 +16,10 @@ print("Ruby is a hot language")
 
 grinding();
 print("\nPython is a hot language as well")
+
+def hard_work()
+    puts("\nKeep working.");
+end
+
+hard_work();
+
