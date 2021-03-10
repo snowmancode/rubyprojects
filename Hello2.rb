@@ -48,4 +48,5 @@ def all_systems_go()
 end
 
 all_systems_go();
+all_systems_go();
 
