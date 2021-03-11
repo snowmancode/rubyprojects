@@ -77,4 +77,5 @@ number = 4
 puts(number + 4);
 puts(number + number + number)
 puts("Coding and Engineering are fun")
+puts("Code daily")
 
