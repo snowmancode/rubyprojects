@@ -70,5 +70,9 @@ testing_cold_code();
 
 name = "Chicago PD"
 
-print(name);
+puts(name);
+
+number = 4
+
+print(number + 4);
 
