@@ -56,3 +56,9 @@ check_test();
 check_test();
 feel_it();
 
+def testing_my_code()
+    feel_it()
+end
+
+testing_my_code();
+
