@@ -74,5 +74,6 @@ puts(name);
 
 number = 4
 
-print(number + 4);
+puts(number + 4);
+puts (number + number + number)
 
