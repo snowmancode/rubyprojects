@@ -62,3 +62,9 @@ end
 
 testing_my_code();
 
+def testing_cold_code()
+    check_test()
+end
+
+testing_cold_code();
+
