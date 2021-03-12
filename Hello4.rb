@@ -6,5 +6,6 @@ def check_stock()
 end
 
 check_stock()
-
+puts("Checking")
+puts("Checking again...Done")
 puts("That will be all for now.  Thanks!")
