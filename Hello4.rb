@@ -6,3 +6,5 @@ def check_stock()
 end
 
 check_stock()
+
+puts("That will be all for now.  Thanks!")
