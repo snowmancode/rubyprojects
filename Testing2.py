@@ -18,3 +18,9 @@ def function_that_moves():
     print("I moved")
 
 function_that_moves()
+
+def new_function():
+    print("I am a new function")
+
+
+new_function()
