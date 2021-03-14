@@ -35,5 +35,11 @@ playerTwo_score = 0
 if playerTwo_score == 0:
     print("Player Two, please wait 10 seconds to begin")
 
+playerThree_score = 0
+
+if playerThree_score == 0:
+    print("Player Three, please wait 1 minute to begin")
+
+
 
 
