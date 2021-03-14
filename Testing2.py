@@ -30,3 +30,10 @@ playerOne_score = 0
 if playerOne_score == 0:
     print("Player One can begin when ready")
 
+playerTwo_score = 0
+
+if playerTwo_score == 0:
+    print("Player Two, please wait 10 seconds to begin")
+
+
+
