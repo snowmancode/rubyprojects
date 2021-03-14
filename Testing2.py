@@ -24,3 +24,9 @@ def new_function():
 
 
 new_function()
+
+playerOne_score = 0
+
+if playerOne_score == 0:
+    print("Player One can begin when ready")
+
